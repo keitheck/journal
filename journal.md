@@ -10,4 +10,10 @@ The splicing script to build a name array from the image path array took some re
 
 ###Tuesday 19th
 
--I struggled with day day one objectives and determined my understanding of manipulating the DOM and DOM commands was severely lacking.  After spending time today reading about the DOM and completeing som online tutorials I was able to work through the 'hard' part of day one fairly quickly.  I have a good idea of how I want to approach the Chart.js addition for Day 2 work tomorrow. Feeling a bit more encouraged at the end of today than the beginning of today.
+-I struggled with day day one objectives and determined my understanding of manipulating the DOM and DOM commands was severely lacking.  After spending time today reading about the DOM and completing some online tutorials I was able to work through the 'hard' part of day one fairly quickly.  I have a good idea of how I want to approach the Chart.js addition for Day 2 work tomorrow. Feeling a bit more encouraged at the end of today than the beginning of today.
+
+###Wednesday 20th
+
+-Finished the chartsjs.org  chart integration without much trouble and applied css styling to pages.  Added features that hid the chart element until 25clicks, at which time it would be shown while hiding the image chooser.  
+
+-integrated the local storage assignment to Bus-mall with a bit of challenge.  Had to re-order the functions to get it to not break the code.  Future builds will need to be designed with this in mind.
