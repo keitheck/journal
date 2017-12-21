@@ -17,3 +17,7 @@ The splicing script to build a name array from the image path array took some re
 -Finished the chartsjs.org  chart integration without much trouble and applied css styling to pages.  Added features that hid the chart element until 25clicks, at which time it would be shown while hiding the image chooser.  
 
 -integrated the local storage assignment to Bus-mall with a bit of challenge.  Had to re-order the functions to get it to not break the code.  Future builds will need to be designed with this in mind.
+
+###Thursday 21st
+
+-Chose the music loop final project to work on.  Certainly don't have my head around what needs to be done, but confident I can figure it out.  broke down our MVP and set some initial tasks and roles.  Will dive in tomorrow.  Will also read documentation tonight on the web audio API to understand what we are working with.
